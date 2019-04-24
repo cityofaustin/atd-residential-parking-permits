@@ -2,6 +2,7 @@
 labels:
   - name: "Impact: None"
     color: FFE2DF
+    description: Does not affect ATD service delivery
   - name: "Impact: Minor"
     color: FFC3BB
   - name: "Impact: Major"
