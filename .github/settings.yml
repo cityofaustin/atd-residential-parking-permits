@@ -128,12 +128,16 @@ labels:
   - name: "Workgroup: ROW"
     color: 00BFA5
     description: Right of Way Management
+    oldname: "Workgroup: ROW"
   - name: "Workgroup: SDD"
     color: 00BFA5
     description: Systems Development Division
+    oldname: "Workgroup: SDD"
   - name: "Workgroup: SMB"
     color: 00BFA5
     description: Signs and Markings (and Banners)
+    oldname: "Workgroup: SMB"
   - name: "Workgroup: TE"
     color: 00BFA5
     description: Transportation Engineering
+    oldname: "Workgroup: TE"
