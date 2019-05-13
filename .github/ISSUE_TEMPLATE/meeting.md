@@ -2,7 +2,7 @@
 name: Meeting
 about: Let's talk about it
 title: 'Meet to '
-labels: meeting
+labels: ''
 assignees: ''
 
 ---
